@@ -1,9 +1,5 @@
 # ⚡ DD1_JR | Daniel ⚡
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DanneKZ/DD1_JR/main/neon-logo.svg" width="150" alt="Logo">
-</p>
-
 ### 🌐 Welcome to my Cyber-Infrastructure
 I am a 15-year-old developer focused on **Cyber Security** and **LUA Scripting**. I build tools that secure environments and enhance gameplay.
 
@@ -34,3 +30,10 @@ I am a 15-year-old developer focused on **Cyber Security** and **LUA Scripting**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanneKZ-Profile&color=bc13fe&style=flat-square&label=PROFILE+VIEWS" alt="Views">
 </p>
+
+---
+
+### 🛠️ Ongoing Operations (Under Development)
+- [ ] **Advanced DD1_JR Shield V2:** Enhancing link detection algorithms.
+- [ ] **LUA Stealth Scripts:** Private tools for MTA/FiveM.
+- [ ] **Cyber-Portfolio Updates:** Adding more interactive UI modules.
